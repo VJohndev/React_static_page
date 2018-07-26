@@ -1,0 +1,20 @@
+.body-content {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  float:left;
+}
+
+.left-menu {
+    background-color: white;
+    float: left;
+    width: 50%;
+}
+
+.right-menu {
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    width:50%;
+  float:left;
+}

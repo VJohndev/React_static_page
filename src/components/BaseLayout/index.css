@@ -1,0 +1,26 @@
+.content {
+  background-color: #F9F6F6;
+}
+
+.first-header {
+  background: url('https://images6.alphacoders.com/379/thumb-1920-379300.jpg');
+}
+
+.second-header {
+  background: url('https://images2.alphacoders.com/785/thumb-1920-78580.jpg');
+}
+
+.third-header {
+  background: url('https://images5.alphacoders.com/307/thumb-1920-307492.jpg');
+}
+
+.fourth-header {
+  background: url('https://images3.alphacoders.com/176/thumb-1920-176699.jpg');
+}
+
+.first-header, .second-header, .third-header, .fourth-header {
+  display: flex;
+  flex-direction: column-reverse;
+  background-size: cover;
+  background-position: left;
+}
