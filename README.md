@@ -1,6 +1,3 @@
-E-Commerce Website
-===
-
-Filter through items from own API, add them to your cart, and see similar items.
+sample website for demo proceed with the below link
 
 ![https://vjohndev.github.io/React_static_page/](ecommerce.gif)
